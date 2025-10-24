@@ -22,8 +22,8 @@ class DataIngestion:
         logging.info("Entered the data ingestion method or component")
 
         try:
-            df=pd.read_csv("Notebook/data/stud.csv")
-            print(df)
+            df=pd.read_csv(r"E:\Projects\ML Projects\Notebook\data\stud.csv")
+            
 
             logging.info("Read the dataset as dataframe")
 
