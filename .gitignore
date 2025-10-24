@@ -135,7 +135,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-Notebook/catboost_info/
+catboost_info/
 .env
 .envrc
 .venv
